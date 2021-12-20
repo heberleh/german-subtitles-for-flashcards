@@ -46,8 +46,11 @@ Bad matches movies/series feel like most of the time the phrases have at least 1
 | Title  | Season | Where, how and when |
 | :-- | :--: | :--: | 
 | Atypical  | 4 | Netflix.de.2021-12 |
+| Chilling adventures of Sabrina  | 1 | Netflix.de.2021-12 |
+| Cursed - die Auserwählte  | 1 | Netflix.de.2021-12 |
 | Emily in Paris  | 1 | Netflix.de.2021-12 |
 | Friends  | 2 | Netflix.de.2021-12 |
+| Matrix Reloaded | movie | Netflix.de.2021-12 |
 | The Witcher  | 1-2 | Netflix.de.2021-12 |
 | Titans  | 3 | Netflix.de.2021-12 |
 

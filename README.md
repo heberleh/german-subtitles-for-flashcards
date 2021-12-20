@@ -39,6 +39,7 @@ Example: Biohakers has Deutsch CC subtitles and most of the times doesn't match 
 | Title  | Season | Where, how and when |
 | :-- | :--: | :--: | 
 | Biohackers  | 2 | Netflix.de.2021-12 |
+| Dogs of Berlin  | 2 | Netflix.de.2021-12 |
 | Mann tut was Mann kann | movie | Netflix.de.2021-12 |
 
 

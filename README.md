@@ -19,6 +19,7 @@ Season should be a number (1), a list (1,3,4), a range (1-6), or the word 'movie
 - [Good matches](#good-matches)
 - [Ok matches](#ok-matches)
 - [Bad matches](#bad-matches)
+- [German Content](#german-content)
 
 # Good matches
 

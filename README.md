@@ -19,6 +19,8 @@ Season should be a number (1), a list (1,3,4), a range (1-6), or the word 'movie
 
 # Good matches
 
+Good movies/series should feel like 95% of the phrases we read match perfectly with what we hear, i.e. same words are used in most of sentences.
+
 | Title  | Season | Where, how and when |
 | :-- | :--: | :--: | 
 | Girl on the train | movie | Netflix.de.2021-12 |
@@ -27,6 +29,8 @@ Season should be a number (1), a list (1,3,4), a range (1-6), or the word 'movie
 
 
 # Bad matches
+
+Bad matches movies/series feel like most of the time the phrases have at least 1 word different than what we hear.
 
 | Title  | Season | Where, how and when |
 | :-- | :--: | :--: | 

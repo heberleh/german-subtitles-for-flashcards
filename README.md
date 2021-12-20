@@ -35,4 +35,4 @@ Bad matches movies/series feel like most of the time the phrases have at least 1
 | Title  | Season | Where, how and when |
 | :-- | :--: | :--: | 
 | The Witcher  | 1-2 | Netflix.de.2021-12 |
-
+| Atypical  | 4 | Netflix.de.2021-12 |

@@ -6,66 +6,29 @@ flashcards with tools like Migaku and sub2str.
 
 Feel free to contribute.
 
-# Good matches
- - [Netflix](#netflix)
- - [Disney+](#disney)
- - [Amazon](#amazon-prime-videos)
-
-# Bad matches
- - [Netflix](#netflix-bad)
- - [Disney+](#disney-bad)
- - [Amazon](#amazon-prime-videos-bad)
-
-
-# Good matches
-
-The following items have a country and validation date (yyyy-mm), which indicate
-where the service was accessed and when the aligment of subtitles were checked.
+# Tables
+The following tables have a column (Where, how and when) that indicates 
+which system was used (Netflix, etc), the country of access 
+(if you set a VPN to use a German server, you write DE) and the date of
+when the subtitles were checked.
 
 Season should be a number (1), a list (1,3,4), a range (1-6), or the word 'movie'.
 
-## Netflix
-| Title  | Season | Country | Validation date |
-| :-- | :--: | :--: | :-: |
-| Girl on the train | movie | DE | 2021-12 |
-| Der Hobbit - eine unerwartete Reise | movie | DE | 2021-12 |
+- [Good matches](#good-matches)
+- [Bad matches](#bad-matches)
+
+# Good matches
+
+| Title  | Season | Where, how and when |
+| :-- | :--: | :--: | 
+| Girl on the train | movie | Netflix.de.2021-12 |
+| Der Hobbit - eine unerwartete Reise | movie | Netflix.de.2021-12 |
 <!--| title  | season | country | validation date |-->
-
-
-## Disney+
-| Title  | Season | Country | Validation date |
-| :-- | :--: | :--: | :-: |
-<!--| title  | season | country | validation date |-->
-
-
-## Amazon Prime Videos
-| Title  | Season | Country | Validation date |
-| :-- | :--: | :--: | :-: |
-<!--| title  | season | country | validation date |-->
-
-
-
-
 
 
 # Bad matches
 
-## Netflix (bad)
-| Title  | Season | Country | Validation date |
-| :-- | :--: | :--: | :-: |
-| The Witcher  | 1-2 | DE | 2021-12 |
-
-
-## Disney+ (bad)
-| Title  | Season | Country | Validation date |
-| :-- | :--: | :--: | :-: |
-<!--| title  | season | country | validation date |-->
-
-
-## Amazon Prime Videos (bad)
-| Title  | Season | Country | Validation date |
-| :-- | :--: | :--: | :-: |
-<!--| title  | season | country | validation date |-->
-
-
+| Title  | Season | Where, how and when |
+| :-- | :--: | :--: | 
+| The Witcher  | 1-2 | Netflix.de.2021-12 |
 

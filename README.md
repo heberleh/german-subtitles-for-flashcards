@@ -27,6 +27,8 @@ Good movies/series should feel like 95% of the phrases we read match perfectly w
 | Der Hobbit - eine unerwartete Reise | movie | Netflix.de.2021-12 |
 | Girl on the train | movie | Netflix.de.2021-12 |
 | How to sell drugs online | 1 | Netflix.de.2021-12 |
+| Mein Blind Date mit dem Leben | movie | Netflix.de.2021-12 |
+
 <!--| title  | season | country | validation date |-->
 
 # Ok matches
@@ -37,6 +39,7 @@ Example: Biohakers has Deutsch CC subtitles and most of the times doesn't match 
 | Title  | Season | Where, how and when |
 | :-- | :--: | :--: | 
 | Biohackers  | 2 | Netflix.de.2021-12 |
+| Mann tut was Mann kann | movie | Netflix.de.2021-12 |
 
 
 # Bad matches

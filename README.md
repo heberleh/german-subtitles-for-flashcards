@@ -1,7 +1,7 @@
 # Movies and series for flashcards in German
-This repo list movies and series with good match between audio and subtitles in German.
+This repo lists movies and series with good match between audio and subtitles in German. It also has a list of bad matches, so to avoid double checking.
 
-Having the words that we hear written in the subtitle is an important aspect for creating
+Having the words that we hear matching what is written in the subtitles is an important aspect for creating
 flashcards with tools like Migaku and sub2str.
 
 Feel free to contribute.

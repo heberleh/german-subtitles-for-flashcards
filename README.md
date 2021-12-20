@@ -1,6 +1,8 @@
 # Movies and series for flashcards in German
 This repo lists movies and series with good match between audio and subtitles in German. It also has a list of OK matches and bad matches, so to avoid double checking.
 
+You find a [German Content](#german-content) table too, where German channels with good subtitles are listed.
+
 Having the words that we hear matching what is written in the subtitles is an important aspect for creating
 flashcards with tools like Migaku and sub2str.
 
@@ -57,4 +59,9 @@ Bad matches movies/series feel like most of the time the phrases have at least 1
 | Matrix Reloaded | movie | Netflix.de.2021-12 |
 | The Witcher  | 1-2 | Netflix.de.2021-12 |
 | Titans  | 3 | Netflix.de.2021-12 |
+
+# German Content
+| Name  | Subtitles | Comments | URL |
+| :-- | :--: |  :--: |:--: | 
+| Dinge Erklärt – Kurzgesagt | good | it is a science channel that explains complex topics from space travel, physics, biology, politics, and philosophy in a simple and understandable way in animated form. Here comes every two weeks a new video on german.| https://www.youtube.com/c/KurzgesagtDE |
 

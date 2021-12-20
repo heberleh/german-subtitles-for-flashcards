@@ -65,5 +65,6 @@ Bad matches movies/series feel like most of the time the phrases have at least 1
 # German Content
 | Name  | Subtitles | Comments | URL |
 | :-- | :--: |  :--: |:--: | 
+| ARD | Videos und Livestreams der gesamten ARD | ? |  https://www.ard.de/ |
 | Dinge Erklärt – Kurzgesagt | good | It is a science channel that explains complex topics from space travel, physics, biology, politics, and philosophy in a simple and understandable way in animated form. Here comes every two weeks a new video on german.| https://www.youtube.com/c/KurzgesagtDE |
 

@@ -57,9 +57,11 @@ Bad matches movies/series feel like most of the time the phrases have at least 1
 | Atypical  | | 4 | Netflix.de.2021 |
 | Chilling adventures of Sabrina  | | 1 | Netflix.de.2021 |
 | Cursed - die Auserwählte  | | 1 | Netflix.de.2021 |
+| Die Welle | yes | movie | Netflix.de.2021 |
 | Emily in Paris  | | 1 | Netflix.de.2021 |
 | Friends  | | 2 | Netflix.de.2021 |
 | Matrix Reloaded | | movie | Netflix.de.2021 |
+| Soul Kitchen (0 subtitles) | yes | movie | Amazon.de.2021 |
 | The Witcher  | | 1-2 | Netflix.de.2021 |
 | Titans  | | 3 | Netflix.de.2021 |
 

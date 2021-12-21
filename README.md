@@ -20,6 +20,7 @@ Season should be a number (1), a list (1,3,4), a range (1-6), or the word 'movie
 - [Ok matches](#ok-matches)
 - [Bad matches](#bad-matches)
 - [German Content](#german-content)
+- [To be defined](#to-be-defined)
 
 # Good matches
 
@@ -71,3 +72,24 @@ Bad matches movies/series feel like most of the time the phrases have at least 1
 | ARD | ? |  Videos und Livestreams der gesamten ARD |  https://www.ard.de/ |
 | Dinge Erklärt – Kurzgesagt | good | It is a science channel that explains complex topics from space travel, physics, biology, politics, and philosophy in a simple and understandable way in animated form. Here comes every two weeks a new video on german.| https://www.youtube.com/c/KurzgesagtDE |
 | Easy German | good | Videos with German as spoken in the streets. | https://www.youtube.com/c/EasyGerman |
+
+# To Be Defined
+
+Mostly German movies/shows that I could not check due to paywalls.
+
+| Title  | Comment |
+| :-- | :--: | 
+| Aguirre, the Wrath of God (1972) Werner Herzog | Not on Netflix, paid at Amazon |
+| Der Amerikanische Freund (1977) Wim Wenders | Not on Netflix, paid at Amazon |
+| Jenseits der Stille (1996) Caroline Link | Not on Netflix, paid at Amazon |
+| Der blaue Engel (1930) Joseph von Sternberg | Not on Netflix, paid at Amazon |
+| Das Boot ist voll (1982) Markus Imhoof | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
+
+
+# Aknowlegements
+
+Thanks to many comments around the internet that were recommending movies, as well as websites with compiled lists:
+- https://www.thoughtco.com/best-german-films-for-learners-4081295
+- 

@@ -106,8 +106,13 @@ Mostly German movies/shows that I could not check due to paywalls.
 | Rosenstrasse (2004) Margarethe von Trotta - Rosenstraße |  |
 | Sophie Scholl - The Last Days (2004) Marc Rothemund - Sophie Scholl - Die letzten TageTopic: 'The White Rose' (see below) |  |
 | Stalingrad (1992) Joseph Vilsmaier |  |
-|  | |
-|  |  |
+| The Tin Drum (1979) Volker Schlöndorff | |
+| White Rose, The* (1983) Michael Verhoeven - Die weiße Rose |  |
+| Vaya con Dios* (2002) Zoltan Spirendelli |  |
+| Wings of Desire (1987) Wim Wenders - Der Himmel über Berlin |  |
+| Wonderful, Horrible Life of Leni Riefenstahl, The (1993) Ray Müller - Die Macht der Bilder: Leni Riefenstahl |  |
+
+
 
 # Aknowlegements
 

@@ -86,26 +86,26 @@ Mostly German movies/shows that I could not check due to paywalls.
 | Das Boot ist voll (1982) Markus Imhoof | Not on Netflix, paid at Amazon |
 | Das Boot (1981) Wolfgang Petersen | Not on Netflix, paid at Amazon |
 | DVD set: The Marriage of Maria Braun, Veronika Voss, Lola | Not on Netflix, paid at Amazon |
-| Europa, Europa | Not on Netflix, paid at Amazon |
-| In weiter Ferne, so nah (1993) Wim Wenders | Not on Netflix, paid at Amazon |
-| Fitzcarraldo (1982) Werner Herzog | Not on Netflix, paid at Amazon |
-| Go, Trabi, Go* (1990) Peter Timm | Not on Netflix, paid at Amazon |
-| Harmonists, The (1997) Joseph Vilsmaier | Not on Netflix, paid at Amazon |
-| Heimat (6-film series) Edgar Reitz | Not on Netflix, paid at Amazon |
-| Die Siebtelbauer (1997) Stefan Ruzowitzky | Not on Netflix, paid at Amazon |
-| Das Leben der Anderen | Not on Netflix, paid at Amazon |
-| M (1931) Fritz Lang | Not on Netflix, paid at Amazon |
-| Marlene (1986) Maximilian Schell | Not on Netflix, paid at Amazon |
-| Die Ehe der Maria Braun (1978) Rainer Werner Fassbinder | Not on Netflix, paid at Amazon |
-| Männer (1990) Doris Dörrie | Not on Netflix, paid at Amazon |
-|  | Not on Netflix, paid at Amazon |
-|  | Not on Netflix, paid at Amazon |
-|  | Not on Netflix, paid at Amazon |
-|  | Not on Netflix, paid at Amazon |
-|  | Not on Netflix, paid at Amazon |
-|  | Not on Netflix, paid at Amazon |
-|  | Not on Netflix, paid at Amazon |
-|  | Not on Netflix, paid at Amazon |
+| Europa, Europa | Not on Netflix, not at Amazon |
+| In weiter Ferne, so nah (1993) Wim Wenders | |
+| Fitzcarraldo (1982) Werner Herzog |  |
+| Go, Trabi, Go* (1990) Peter Timm |  |
+| Harmonists, The (1997) Joseph Vilsmaier |  |
+| Heimat (6-film series) Edgar Reitz | |
+| Die Siebtelbauer (1997) Stefan Ruzowitzky | |
+| Das Leben der Anderen |  |
+| M (1931) Fritz Lang |  |
+| Marlene (1986) Maximilian Schell | |
+| Die Ehe der Maria Braun (1978) Rainer Werner Fassbinder | |
+| Männer (1990) Doris Dörrie | |
+| Mostly Martha (2001) Sandra Nettelbeck | Not on Netflix, paid at Amazon |
+| Mystery of Kaspar Hauser, The (1974) Werner Herzog | Not on Netflix, paid at Amazon |
+| Nasty Girl, The (1990) Michael Verhoeven - Das schreckliche Mädchen | Not on Netflix, paid at Amazon |
+| Nosferatu, the Vampyre (1979) Werner Herzog - Nosferatu, Phantom der Nacht | Not on Netflix, paid at Amazon |
+| Nowhere in Africa (2001) Caroline Link - Nirgendwo in Afrika | Not on Netflix, paid at Amazon |
+| Rosenstrasse (2004) Margarethe von Trotta - Rosenstraße | Not on Netflix, paid at Amazon |
+| Sophie Scholl - The Last Days (2004) Marc Rothemund - Sophie Scholl - Die letzten TageTopic: 'The White Rose' (see below) | Not on Netflix, paid at Amazon |
+| Stalingrad (1992) Joseph Vilsmaier | Not on Netflix, paid at Amazon |
 |  | Not on Netflix, paid at Amazon |
 |  | Not on Netflix, paid at Amazon |
 

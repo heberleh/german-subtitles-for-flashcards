@@ -114,7 +114,7 @@ Mostly German movies/shows that I could not check due to paywalls.
 
 
 
-# Aknowlegements
+# Acknowledgements
 
 Thanks to many comments around the internet that were recommending movies, as well as websites with compiled lists:
 - https://www.thoughtco.com/best-german-films-for-learners-4081295

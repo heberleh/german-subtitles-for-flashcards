@@ -84,9 +84,30 @@ Mostly German movies/shows that I could not check due to paywalls.
 | Jenseits der Stille (1996) Caroline Link | Not on Netflix, paid at Amazon |
 | Der blaue Engel (1930) Joseph von Sternberg | Not on Netflix, paid at Amazon |
 | Das Boot ist voll (1982) Markus Imhoof | Not on Netflix, paid at Amazon |
+| Das Boot (1981) Wolfgang Petersen | Not on Netflix, paid at Amazon |
+| DVD set: The Marriage of Maria Braun, Veronika Voss, Lola | Not on Netflix, paid at Amazon |
+| Europa, Europa | Not on Netflix, paid at Amazon |
+| In weiter Ferne, so nah (1993) Wim Wenders | Not on Netflix, paid at Amazon |
+| Fitzcarraldo (1982) Werner Herzog | Not on Netflix, paid at Amazon |
+| Go, Trabi, Go* (1990) Peter Timm | Not on Netflix, paid at Amazon |
+| Harmonists, The (1997) Joseph Vilsmaier | Not on Netflix, paid at Amazon |
+| Heimat (6-film series) Edgar Reitz | Not on Netflix, paid at Amazon |
+| Die Siebtelbauer (1997) Stefan Ruzowitzky | Not on Netflix, paid at Amazon |
+| Das Leben der Anderen | Not on Netflix, paid at Amazon |
+| M (1931) Fritz Lang | Not on Netflix, paid at Amazon |
+| Marlene (1986) Maximilian Schell | Not on Netflix, paid at Amazon |
+| Die Ehe der Maria Braun (1978) Rainer Werner Fassbinder | Not on Netflix, paid at Amazon |
+| Männer (1990) Doris Dörrie | Not on Netflix, paid at Amazon |
 |  | Not on Netflix, paid at Amazon |
 |  | Not on Netflix, paid at Amazon |
-
+|  | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
+|  | Not on Netflix, paid at Amazon |
 
 # Aknowlegements
 
